@@ -11,15 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#module 4 assignment 
 
-- Bulleted
-- List
+- Arrays
+- console.log()
+- Functions
 
-1. Numbered
-2. List
+1. datatypes
+2. Arrays
+3. lists
+4. numbers
+5. bool
+6. logic
 
 **Bold** and _Italic_ and `Code` text
 
